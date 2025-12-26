@@ -1,6 +1,7 @@
-Je vais créer un nouveau fichier README.md avec un contenu détaillé et attrayant pour votre projet. Voici le contenu que je vais ajouter :
+![Image](https://github.com/user-attachments/assets/bb5804cd-9a43-4a11-8e94-4bbe902e5668)
+![Image](https://github.com/user-attachments/assets/fe885eaa-4984-4162-86a3-f0edf7f8fbd0)
+![Image](https://github.com/user-attachments/assets/9f6cef66-a2b4-4ca1-bd4d-d8b66295b9dd)
 
-```markdown
 # 🏦 Gestion de Comptes Bancaires
 
 Une application web moderne pour gérer vos comptes bancaires en toute simplicité. Développée avec React pour le frontend et Node.js/Express pour le backend.
